@@ -1,0 +1,10 @@
+Bug ID: BUG001
+Title: Checkout possible without items in cart
+Severity: High
+Steps to Reproduce:
+  1. Login
+  2. Go directly to Checkout without adding items
+  3. Click Finish
+Expected Result: Error or warning message should prevent checkout.
+Actual Result: System allows completing order without items.
+Status: Open
