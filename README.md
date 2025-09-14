@@ -1,4 +1,14 @@
-# QA_Manual_Ecommerce
-Manual QA project for e-commerce website (saucedemo.com)
-Features tested: Login, Add to Cart, Checkout
-Tools: Excel for Test Cases, Jira for Bugs
+# Manual QA Project – E-commerce Website
+
+This project demonstrates a complete manual QA process for an e-commerce website.
+
+## Contents
+- Test Plan
+- Features list
+- Test Cases
+- Bug Reports
+- Summary Report
+
+## Tools
+- Browser: Chrome, Internet Explorer
+- Documentation: Excel, Markdown
