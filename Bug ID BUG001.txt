@@ -8,3 +8,4 @@ Steps to Reproduce:
 Expected Result: Error or warning message should prevent checkout.
 Actual Result: System allows completing order without items.
 Status: Open
+Environment: Google Chrome, Internet Explorer
