@@ -11,14 +11,14 @@ Verify that key functionalities of the e-commerce platform work as expected and 
 - Login
 - Add to Cart
 - Checkout
+- Checkout with empty cart
 
 ### Features Not to Test
 - Remove from Cart
-- Checkout with empty cart
 - Product Sorting
 
 ## Environment
-- Browsers: Google Chrome (v125), Internet Explorer 11
+- Browsers: Google Chrome, Internet Explorer 
 - OS: Windows 11
 
 ## Approach
@@ -32,3 +32,4 @@ Verify that key functionalities of the e-commerce platform work as expected and 
 - Test Cases
 - Bug Reports
 - Test Summary Report
+
