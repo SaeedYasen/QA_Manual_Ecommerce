@@ -24,7 +24,7 @@ Verify that key functionalities of the e-commerce platform work as expected and 
 ## Approach
 - Manual testing using functional test cases
 - Document results in Excel (test-cases.xlsx)
-- Report bugs in bugs.xlsx
+- Report bugs in bugs.txt
 
 ## Deliverables
 - Test Plan
@@ -32,4 +32,5 @@ Verify that key functionalities of the e-commerce platform work as expected and 
 - Test Cases
 - Bug Reports
 - Test Summary Report
+
 
