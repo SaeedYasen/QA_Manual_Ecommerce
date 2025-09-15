@@ -7,8 +7,11 @@ This project demonstrates a complete manual QA process for an e-commerce website
 - Features list
 - Test Cases
 - Bug Reports
-- Summary Report
+- Test Summary Report
 
 ## Tools
-- Browser: Chrome, Internet Explorer
+- Browsers: Chrome, Internet Explorer
 - Documentation: Excel, Markdown
+
+## Author
+Created as a demo QA portfolio project.

@@ -2,10 +2,8 @@ Features to Test:
 1. Login
 2. Add to Cart
 3. Checkout
-4. Remove from Cart
 
-Features NOT to Test:
-1. Sort Products
-2. Filter Products
-3. Performance & Load Testing
-4. Mobile Responsiveness
+Features Not to Test:
+1. Remove from Cart
+2. Checkout with empty cart
+3. Product Sorting
